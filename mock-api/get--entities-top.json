@@ -1,0 +1,71 @@
+{
+  "entities": [
+    {
+      "type": "BRAND",
+      "value": "Alpha Brand",
+      "mentions": 500,
+      "sentiment_dist": {
+        "pos": 0.2,
+        "neg": 0.6,
+        "neutral": 0.1,
+        "mixed": 0.1
+      },
+      "top_clusters": [
+        {
+          "cluster_id": "c1",
+          "label": "Product recall",
+          "post_count": 7
+        }
+      ]
+    },
+    {
+      "type": "ORG",
+      "value": "Beta Org",
+      "mentions": 320,
+      "sentiment_dist": {
+        "pos": 0.4,
+        "neg": 0.2,
+        "neutral": 0.3,
+        "mixed": 0.1
+      },
+      "top_clusters": []
+    },
+    {
+      "type": "HASHTAG",
+      "value": "#spamwordspamwordspamwordspamwordspamwordspamwordspamwordspamwordspamwordspamwordspamwordspamwordspamwordspamwordspamwordspamwordspamwordspamwordspamwordspamwordspamwordspamwordspamwordspamword",
+      "mentions": 12,
+      "sentiment_dist": {
+        "pos": 0.3,
+        "neg": 0.3,
+        "neutral": 0.3,
+        "mixed": 0.1
+      },
+      "top_clusters": []
+    },
+    {
+      "type": "PERSON",
+      "value": "Gamma Person",
+      "mentions": 60,
+      "sentiment_dist": {
+        "pos": 0.3,
+        "neg": 0.4,
+        "neutral": 0.2,
+        "mixed": 0.1
+      },
+      "top_clusters": []
+    },
+    {
+      "type": "HASHTAG",
+      "value": "#delta",
+      "mentions": 40,
+      "sentiment_dist": {
+        "pos": 0.5,
+        "neg": 0.1,
+        "neutral": 0.3,
+        "mixed": 0.1
+      },
+      "top_clusters": []
+    }
+  ],
+  "next_cursor": null
+}

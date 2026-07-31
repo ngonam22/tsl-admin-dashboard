@@ -1,0 +1,19 @@
+{
+  "sub": "github-pages-demo",
+  "tenant_id": "T1",
+  "role": "admin",
+  "is_platform_staff": true,
+  "permissions": [
+    "tenant.view",
+    "tenant.create",
+    "tenant.edit",
+    "tenant.suspend",
+    "tenant.delete",
+    "watchlist.view",
+    "keyword.add",
+    "keyword.edit",
+    "keyword.delete",
+    "collector.config",
+    "system_settings.edit"
+  ]
+}
