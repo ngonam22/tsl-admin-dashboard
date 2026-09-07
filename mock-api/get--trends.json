@@ -8,6 +8,7 @@
       "trend_score": 9,
       "volume": 90,
       "velocity": 4.5,
+      "post_count": 12,
       "engagement_total": 36,
       "sentiment_dist": {
         "pos": 6,
@@ -26,6 +27,7 @@
       "trend_score": 8,
       "volume": 80,
       "velocity": 4,
+      "post_count": 11,
       "engagement_total": 32,
       "sentiment_dist": {
         "pos": 6,
@@ -44,6 +46,7 @@
       "trend_score": 3,
       "volume": 30,
       "velocity": 1.5,
+      "post_count": 10,
       "engagement_total": 12,
       "sentiment_dist": {
         "pos": 6,
@@ -62,6 +65,7 @@
       "trend_score": 2,
       "volume": 20,
       "velocity": 1,
+      "post_count": 9,
       "engagement_total": 8,
       "sentiment_dist": {
         "pos": 6,

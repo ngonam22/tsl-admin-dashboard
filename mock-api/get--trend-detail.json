@@ -13,6 +13,7 @@
     "gate_passed": true,
     "volume": 100,
     "velocity": 5,
+    "post_count": 12,
     "engagement_total": 40,
     "sentiment_dist": {
       "pos": 6,

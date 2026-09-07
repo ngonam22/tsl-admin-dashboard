@@ -10,6 +10,7 @@
     "enabled": true,
     "added_by": "admin-ops",
     "note": null,
+    "distribution_state": "private",
     "created_at": "2026-07-01T00:00:00.000Z",
     "updated_at": "2026-07-01T00:00:00.000Z"
   },
@@ -24,6 +25,7 @@
     "enabled": false,
     "added_by": null,
     "note": "teencode",
+    "distribution_state": "published",
     "created_at": "2026-07-01T00:00:00.000Z",
     "updated_at": "2026-07-01T00:00:00.000Z"
   }
